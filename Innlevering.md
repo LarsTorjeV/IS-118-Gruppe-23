@@ -16,7 +16,8 @@ Relasjonelle kontrakten for medborgerportalen bør inneholde følgende kjerneele
 3. **kontinuerlig dialog:** rapporteringsmøter med fokus på kontroll bør heller erstattes med regelmessige statusmøter der prosjekteier blir mer en støttespiller og tilrettelegger både prosjektleder og prosjektgruppen.
 4. **Endringshåndtering:** Det må være enighet i kontrakten om at innholdet i portalen kan justeres underveis. Basert på tilbakemeldinger etter brukertesting og innspill fra innbyggerrepresentatene, bør UX og UI designerene kunne justere deler av portalen.
 
-**Proaktive mekanismer for konflikthåndtering**
+
+## Del 4.Proaktive mekanismer for konflikthåndtering
 I et prosjekt som dette, utviklingen av en digital medborgerportal, vil det ofte kunne oppstå uenigheter. Disse uenighetene kan for eksempel handle om prioritering av utvikling, kostnader, personvern eller politisk ladet tankegang. For å forhindre at disse typene uenigheter utvikler seg og eskalerer, bør Erling og teamet hans lage et sett med tydelige og proaktive standarder allerede ved prosjektstart.
 
 Det første tiltaket Erling bør innføre, er en samarbeidsavtale for prosjektgruppen som alle skriver under på. Denne avtalen bør beskrive hvordan gruppen skal kommunisere med hverandre, hvordan beslutninger skal tas og hvilke forventninger de har for samarbeidet og respekt for hverandre. De bør også diskutere det at uenighet er viktig i et prosjekt som dette, og kan av og til være ønskelig, da den bidrar til mere gjennomtenkte beslutninger. Samtidig er det ekstremt viktig at kritikken skal rettes mot sak og ikke person. En avtale som denne kan bidra til å skape trygghet i teamet, slik at deltakerne tør å ta opp problemer før de blir større.
