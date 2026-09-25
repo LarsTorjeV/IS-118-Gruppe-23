@@ -1,0 +1,17 @@
+#del 1 Oppgave 4
+
+Proaktive mekanismer for konflikthåndtering
+
+I et prosjekt som dette, utviklingen av en digital medborgerportal, vil det ofte kunne oppstå uenigheter. Disse uenighetene kan for eksempel handle om prioritering av utvikling, kostnader, personvern eller politisk ladet tankegang. For å forhindre at disse typene uenigheter utvikler seg og eskalerer, bør Erling og teamet hans lage et sett med tydelige og proaktive standarder allerede ved prosjektstart.
+
+Det første tiltaket Erling bør innføre, er en samarbeidsavtale for prosjektgruppen som alle skriver under på. Denne avtalen bør beskrive hvordan gruppen skal kommunisere med hverandre, hvordan beslutninger skal tas og hvilke forventninger de har for samarbeidet og respekt for hverandre. De bør også diskutere det at uenighet er viktig i et prosjekt som dette, og kan av og til være ønskelig, da den bidrar til mere gjennomtenkte beslutninger. Samtidig er det ekstremt viktig at kritikken skal rettes mot sak og ikke person. En avtale som denne kan bidra til å skape trygghet i teamet, slik at deltakerne tør å ta opp problemer før de blir større.
+
+Neste teamet bør etablere er faste prosjektmøter der en egen del av møtet vil være rettet mot eventuelle spørsmål, innspill eller uenigheter. Her kan teamet si ifra om de opplever uklarhet, uenighet eller bekymring. Erling bør aktivt følge med og plukke opp signaler som gjentatte misforståelser, manglende informasjonsdeling eller at enkelte perspektiver konsekvent blir oversett. 
+For å håndtere eventuelle uenigheter tidlig bør teamet innføre en trinn for trinn prosedyre som omhandler konflikthåndtering. Første trinn er at de involverte partene prøver å avklare saken direkte gjennom en samtale. Her bør alle partene beskrive hva de er uenige om, eventuelle behov de har og gi konstruktiv kritikk. Trinn to vil da være at etter de har diskutert, setter de seg ned å prøve å drøfte hvilke mulige løsninger de ser. Dersom dette ikke fører noe sted, begynner trinn tre. Erling stepper inn og fungerer som nøytral part og blir med i diskusjonen fra trinn 1. Denne trinnvise prosedyren bør ha som mål å finne den beste løsningen for et problem, samtidig som den utvikler prosjektet mot et endelig produkt.
+
+Det bør også gjøres tydelig hvem som tar de endelige beslutningene i ulike typer saker. For eksempel bør tekniske spørsmål avgjøres av de som er IT-ansvarlige, mens større endringer i budsjett, omfang eller prosjektets mål må løftes til styringsnivået. Alle større beslutninger bør derfor dokumenteres, inkludert hvilke alternativer som ble vurdert og hvorfor en bestemt løsning ble valgt. På denne måten kan du spore eventuelle problemer tilbake til rota, noe som gjør å løse disse problemene mye enklere. 
+Til slutt kan det være lurt at Erling utfører spørreundersøkelser med jevne mellomrom i teamet. For eksempel en kort Forms spørreundersøkelse hver måned eller hvert kvartal. I denne undersøkelsen, kan teamet vurdere kommunikasjon og samarbeid og samtidig sette ord på følelser. Undersøkelsene kan utføres anonymt om gruppen ønsker det. På denne måten kan Erling oppdage eventuelle konflikter tidlig og sette inn tiltak før de påvirker prosjektets fremdrift eller kvalitet.
+
+Oppsummert bør konflikthåndtering i teamet derfor ikke først og fremst sees på som et tiltak som brukes når en konflikt allerede har oppstått. Men et verktøy som brukes for å ta hånd om konflikter før de eskalerer.
+
+
