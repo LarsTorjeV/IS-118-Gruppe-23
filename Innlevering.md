@@ -1,4 +1,4 @@
-## 3. Rammer for relasjonelle kontrakter
+## Punkt 3: Rammer for relasjonelle kontrakter
 ### Tradisjonell prosjektstyring vs relasjonelle kontrakter
 Med tradisjonell prosjektstyring tar man ofte utgangspunkt i "jerntriangelet", der parametrene tid, kostnad og arbeidsomfang definerer prosjektets sannsynlighet til å lykkes. En endring i en av parametrene kan føre til konsekvenser for de to andre. En økning i arbeidsomfang kan for eksempel føre til økt kostnader og/eller arbeidstid. [Rolstadås, 2025] 
 I dette prosjektet er det strammet rammer: portalen må lanseres innen 15 måneder og budsjettet er på 8 millioner kroner fra innovasjonsfondet. 
@@ -15,8 +15,7 @@ Relasjonelle kontrakten for medborgerportalen bør inneholde følgende kjerneele
 2. **samarbeid og verdier:** Samarbeidsprinsipper bør defineres klart og tydelig. Dette gjelder for eksempel gjennsidig respekt for de ulike medlemmene i gruppen med ulike fagbakgrunn og trasparens i beslutninger tatt av ledelsen. 
 3. **kontinuerlig dialog:** rapporteringsmøter med fokus på kontroll bør heller erstattes med regelmessige statusmøter der prosjekteier blir mer en støttespiller og tilrettelegger både prosjektleder og prosjektgruppen.
 4. **Endringshåndtering:** Det må være enighet i kontrakten om at innholdet i portalen kan justeres underveis. Basert på tilbakemeldinger etter brukertesting og innspill fra innbyggerrepresentatene, bør UX og UI designerene kunne justere deler av portalen.
-
-## Del 6: Håndtering av tidspress og "planleggingsfellen":
+## Punkt 5: Håndtering av tidspress og "planleggingsfellen":
 
 For at et prosjekt skal være gjennomførbart på en effektivt måte og ikke bli strekket ut på ubestemt tid, krever det en fast tidsramme med et avslutningstidspunkt. Dette pleier som oftest å være et siste frist for når noe skal være ferdiggjort. I utgangspunktet er dette en av de viktigste strategiene for å sikre at noe faktisk blir gjort i tide, og kan være et god bidrag til en form for produktivt press, slik at prosjektmedlemmene føler seg motivert til å presse seg litt fram. Men i noe tilfeller kan dette være kontraproduktivt og danne uvaner blant teamet. Tidspress kan hjelpe enkelte individer med å faktisk komme i gang med oppgaver, men usunn tidspress kan lede til at en arbeidsgruppe forsømmer gode strategier for teamsamhold, arbeidsflyt, og oversiktlig planlegging, fordi de får mistanken at å planlegge istedenfor å handle umiddelbart bortkaster tid. Denne oppførselen viser seg i fenomenet "planleggingsfellen."
 
@@ -27,3 +26,18 @@ Det kan være veldig risikerende for et helhetlig prosjekt dersom det har ikke b
 Et godt forslag til Erling er å sette av god tid til planlegging, drøfting, teambygging, og skissering i de tidligste fasene. Det burde være et klar oversiktlig visjon på hva som trengs i sluttresultatet, uten å gå for dypt i de minste detaljene. Her er det lurt å forberede prototyper og teste de med eksterne brukere, helst med et svært diverse gruppe med testere. 
 
 I tillegg er det viktig for Erlings medarbeiere å huske at de må ikke fokusere for mye på framtiden om de opplever tidspress. Selv om det kan være mye usikkerhet i starten av prosessen, burde laget uansett planlegge så godt de kan med utgangspunktet på potensielle usikkerheter og risikoer. En god plan gir oversikt over framtiden, men samtidig er det fleksibel nokk for lettere endringer dersom det kreves. Komplikasjoner som oppstår underveis, eller resultater fra brukertesting kan bety at prioritetene, målet, eller retningen må endres.
+
+## Punkt 6: Sikring av god kommunikasjon
+Som prosjektleder legger du i oppstartsfasen grunnlaget for hvordan teamet skal kommunisere og samarbeide gjennom hele prosjektperioden. Denne delen av pakken gir deg råd og anbefalinger basert på anerkjente prinsipper for god kommunikasjon i grupper. 
+
+Allerede fra det første møtet bør man legge vekt på å vise interesse for teammedlemmenes bidrag, gjennom aktiv og passiv lytting. Still oppfølgingsspørsmål til det som blir sagt, unngå å avbryte, og gi tydelige, positive tilbakemeldinger underveis. Dette vil bygge en trygghet tidlig i prosjektet. En praktisk måte å sikre dette på er å innfør en fast rutine der alle får ordet ved oppstart av møter, for eksempel en kort runde der hver deltaker i teamet kan si noe om status eller tanker de har. (Gjøsund & Huseby, 2025, s. 93 - 94) 
+
+Samtidig er det viktig å signalisere tydelig at alle bidrag teller likt, uavhengig av rolle eller erfaring. Som prosjektleder bør du aktivt invitere innspill fra de som er mer tilbakeholdne, slik at likeverd blir en reel del av kulturen fra start, ikke bare en uttalt intensjon. I denne sammenhengen vil humor også være et nyttig verktøy for å bygge relasjoner og senke skuldrene i en ny gruppe, men den må brukes bevisst. Humoren må ikke gå på bekostning av enkeltpersoner, men bruk den heller til å styrke det sosiale. Som leder setter du standeren for bruk av humor innad i teamet. (Gjøsund & Huseby, 2025, s. 94 - 95) 
+
+God kommunikasjon handler også om å tørre å ta tak i det som er vanskelig. Uenigheter eller uklarheter bør adresseres tidlig, før de blir store, og du bør gjøre det tydelig for de på teamet at det både er lov og ønskelig å ta opp problemer underveis. Ikke først i sluttfasen av prosjektet. Et tema som er nært knyttet til dette er Metakommunikasjon. Dette handler om å stoppe opp og ha en samtale om selve samarbeidsformen, ikke bare prosjektinnholdet. Spør gjerne teamet direkte om måten de jobber sammen faktisk fungerer. Dette er særlig verdifullt i oppstartsfasen der samarbeidsformer og forventninger skal etableres. (Gjøsund & Huseby, 2025, s. 98 - 100) 
+
+Som leder påvirker din egen atferd hele gruppens dynamikk, og det er derfor viktig å være bevisst på din rolle og hvordan du selv kommuniserer. Dette henger tett sammen med å kunne kontrollere aggressivitet og bruk av ironi. Slike virkemidler bør brukes med varsomhet, særlig i en fase der teamet enda ikke kjenner hverandre så godt, siden de lett kan mistolkes og skade en tillit som enda ikke er bygd opp engang. (Gjøsund & Huseby, 2025, s. 97 – 98) 
+
+ For at møter og diskusjoner skal være effektive, bør du utarbeide tydelige agendaer og sørge for at samtalene holder seg til saken. Samtidig bør du aktivt oppmuntre til at teammedlemmer deler avvikene meninger, og tydelig vise til at slik uenighet verdsettes. F.eks. å takke for kritiske innspill og faktisk bruke dem i beslutninger som tas. Vær også bevisst på at teammedlemmene kan ha ulike arbeidsstiler, og skap rom for dette uten at det svekker samarbeidet. (Gjøsund & Huseby, 2025, s.102-103) 
+
+Til sist, men ikke minst bør du sette standarden for en god møtedisiplin allerede fra første møtet. Hold tidene, følg agendaen, og respekter deltakernes tid. Dette er kanskje det mest konkrete uttrykket for de øvrige prinsippene i praksis, og bidrar til å bygge tillit til deg som leder og prosjektet som helhet. (Gjøsund & Huseby, 2025, s.104) 
