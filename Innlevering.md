@@ -41,3 +41,18 @@ Som leder påvirker din egen atferd hele gruppens dynamikk, og det er derfor vik
  For at møter og diskusjoner skal være effektive, bør du utarbeide tydelige agendaer og sørge for at samtalene holder seg til saken. Samtidig bør du aktivt oppmuntre til at teammedlemmer deler avvikene meninger, og tydelig vise til at slik uenighet verdsettes. F.eks. å takke for kritiske innspill og faktisk bruke dem i beslutninger som tas. Vær også bevisst på at teammedlemmene kan ha ulike arbeidsstiler, og skap rom for dette uten at det svekker samarbeidet. (Gjøsund & Huseby, 2025, s.102-103) 
 
 Til sist, men ikke minst bør du sette standarden for en god møtedisiplin allerede fra første møtet. Hold tidene, følg agendaen, og respekter deltakernes tid. Dette er kanskje det mest konkrete uttrykket for de øvrige prinsippene i praksis, og bidrar til å bygge tillit til deg som leder og prosjektet som helhet. (Gjøsund & Huseby, 2025, s.104) 
+
+## Egenevaluering av Gruppekontrakt/samarbeid
+Hensiktsmessighet og etterlevelse 
+
+Gruppekontrakten fungerte overordnet godt, spesielt på kommunikasjon. Fra dag en tok vi kontakt med hverandre på de måtene vi hadde avtalt i kontrakten, og dette ble raskt en naturlig rutine som la grunnlaget for resten av samarbeidet. Ansvarsfordelingen var derimot mer krevende i starten. Det tok tid før vi fant en fordeling som føles rettferdig, og vi jobber fortsatt med å finne det som fungerer best i praksis. Etter hvert som vi blir bedre kjent og får klarere forståelse om hvordan hver enkelt av oss jobber, vil dette falle mer på plass og samarbeidet vil få bedre flyt. 
+
+Kontrakten blir likevel ikke fulgt på alle punkter. Enkelte regler som å si ifra ved fravær og møte opp til avtalt tid, blir til tider dessverre glemt. Dette viser at gruppekontrakten alene ikke er nok og at det krever en aktiv oppfølging av gruppen for at kontrakten faktisk etterleves. 
+
+Svakheter og rom for forbedring 
+
+Vi har foreløpig ikke opplevd store uforutsette situasjoner, men siden kontrakten er relativt standard og generell, tror vi slike utfordringer vil kunne oppstå etter hvert som oppgavene våre utvikler seg. En klar svakhet var formuleringen om at “alle skal bidra til et felles produkt”. Dette var for vagt, og i praksis har enkelte bidratt mer enn andre til oppgavene vi har fått. Dette har allerede blitt tatt opp i gruppen, noe som viser at åpen dialog og tydelige forventinger er avgjørende når slike ubalanser oppstår underveis i samarbeidet. 
+
+Erfaringer og råd for fremtidig prosjektarbeid. 
+
+Med erfaringen vi har nå, vil vi anbefale å utforme en mer detaljert kontrakt i fremtidige prosjekter. Særlig bør punkter som håndtering av sykdom og fravær formuleres mer presist, fremfor generelle formuleringer som er åpne for tolkning. I tillegg vil vi anbefale å sette faste, jevnlige møtetidspunkter en gang i måneden hvor gruppen aktivt går igjennom eventuelle utfordringer og friksjoner. Dette kan bidra til at problemer fanges opp tidlig, i stedet for at kontrakten blir et glemt dokument man kun forholder seg til ved oppstart. Overføringsverdien til fremtidige prosjekter ligger i at tydelighet og jevnlig oppfølging er minst like viktig som selve innholdet i kontrakten.
